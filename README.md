@@ -2,13 +2,13 @@
 
 # Contributor
 
-Pritish Kumar Roy (46252665) 
+Pritish Kumar Roy 
 
-Vy Hoa Phun (46182856) 
+Vy Hoa Phun 
 
-Christian Burbon (45775653) 
+Christian Burbon 
 
-Dylan Ho (46253206) 
+Dylan Ho 
 
 
 # Steps
