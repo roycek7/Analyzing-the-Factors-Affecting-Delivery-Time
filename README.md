@@ -2,7 +2,7 @@
 
 # Contributor
 
-Pritish Kumar Roy 
+Pritish Roy 
 
 Vy Hoa Phun 
 
